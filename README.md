@@ -1,6 +1,6 @@
-# Ismile Photography Website 
+# Ismile Photography Website - Homepage
 
-Welcome to the Ismile Photography website - homepage.
+Welcome to the Ismile Photography homepage project.
 Created by Bhargavi Bhende
 
 ## Table of Contents
@@ -12,7 +12,7 @@ Created by Bhargavi Bhende
 
 ## Description
 
-This project is a simple and elegant photography website homepage built using HTML, CSS, and Bootstrap. The main goal is to provide a visually appealing and user-friendly interface for showcasing photography work.
+This project is a simple and elegant homepage for a photography website, built using HTML, CSS, and Bootstrap. The main goal is to provide a visually appealing and user-friendly interface for showcasing photography work.
 
 ## Features
 
